@@ -17,3 +17,5 @@ let user = new User('John Doe', 25);
 console.log(user.toString());  // User: John Doe, 25
 console.log(user.name);  // John Doe
 console.log(user.age);  // 25
+
+export { };

@@ -14,3 +14,5 @@ console.log(counter.current);  // 1
 counter.reset();
 
 console.log(counter.current);  // 0
+
+export { };

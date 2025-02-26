@@ -20,3 +20,5 @@ const reveal = {
 };
 
 export default reveal;
+
+export { };

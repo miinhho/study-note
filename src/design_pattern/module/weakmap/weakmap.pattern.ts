@@ -32,3 +32,5 @@ counter.increment();
 counter.increment();
 
 console.log(counter.current);  // 2
+
+export { };

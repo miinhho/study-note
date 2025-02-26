@@ -34,3 +34,5 @@ console.log(otherPerson.age);  // 25
 console.log(otherPerson.name);  // John Doe
 console.log(otherPerson.email);  // example@test.com
 console.log(otherPerson.birth);  // 2000-01-01
+
+export { };
